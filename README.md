@@ -21,7 +21,6 @@ Chào mừng bạn đến với **Công Nghệ AI** — website chia sẻ kiến
 
 ## 📌 Hướng dẫn sử dụng
 1. Clone hoặc download repo này về máy:
-```bash
 git clone https://github.com/username/ai-knowledge.git
 2. Mở file index.html bằng trình duyệt để xem web tạm thời.
 3. Hoặc bật GitHub Pages để chạy trực tiếp trên web:
